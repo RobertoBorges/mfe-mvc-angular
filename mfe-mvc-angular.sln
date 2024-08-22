@@ -9,6 +9,8 @@ Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "mfe-mvc-angular.client", "m
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteApp1", "RemoteApp1\RemoteApp1.csproj", "{9FBAEEFE-AB30-42CF-ADD7-E1EA91038E47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteApp2", "RemoteApp2\RemoteApp2.csproj", "{4FB02F46-6E55-4C47-874E-CF939DF2EBC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{9FBAEEFE-AB30-42CF-ADD7-E1EA91038E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FBAEEFE-AB30-42CF-ADD7-E1EA91038E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FBAEEFE-AB30-42CF-ADD7-E1EA91038E47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FB02F46-6E55-4C47-874E-CF939DF2EBC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB02F46-6E55-4C47-874E-CF939DF2EBC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB02F46-6E55-4C47-874E-CF939DF2EBC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB02F46-6E55-4C47-874E-CF939DF2EBC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

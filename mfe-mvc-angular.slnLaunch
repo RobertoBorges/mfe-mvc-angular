@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Start-All",
+    "Projects": [
+      {
+        "Path": "mfe-mvc-angular.Server\\mfe-mvc-angular.Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "mfe-mvc-angular.client\\mfe-mvc-angular.client.esproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "RemoteApp1\\RemoteApp1.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "RemoteApp2\\RemoteApp2.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
