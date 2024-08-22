@@ -3,11 +3,11 @@
     "Name": "Start-All",
     "Projects": [
       {
-        "Path": "mfe-mvc-angular.Server\\mfe-mvc-angular.Server.csproj",
+        "Path": "mfe-mvc-angular.client\\mfe-mvc-angular.client.esproj",
         "Action": "Start"
       },
       {
-        "Path": "mfe-mvc-angular.client\\mfe-mvc-angular.client.esproj",
+        "Path": "mfe-mvc-angular.Server\\mfe-mvc-angular.Server.csproj",
         "Action": "Start"
       },
       {
