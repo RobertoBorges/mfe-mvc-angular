@@ -1,0 +1,6 @@
+@mfe_mvc_angular.Server_HostAddress = http://localhost:5119
+
+GET {{mfe_mvc_angular.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
