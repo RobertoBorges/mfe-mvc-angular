@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@angular-architects/module-federation": "^18.0.4",
+    "@angular-builders/custom-webpack": "^18.0.0",
+    "webpack": "^5.94.0",
+    "webpack-cli": "^5.1.4"
+  }
+}

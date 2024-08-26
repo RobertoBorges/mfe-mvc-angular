@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "provider": "cdnjs",
+      "library": "webpack-cesium@1.37.0",
+      "destination": "wwwroot/lib/webpack-cesium/"
+    }
+  ]
+}
