@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Start-All",
+    "Projects": [
+      {
+        "Path": "RemoteApp1\\RemoteApp1.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "RemoteApp2\\RemoteApp2.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MasterHub\\MasterHub.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
