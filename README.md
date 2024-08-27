@@ -1,1 +1,1 @@
-# mfe-mvc-angular
+# mfe-mvc-core
